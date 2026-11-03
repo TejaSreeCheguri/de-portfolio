@@ -31,3 +31,15 @@ Projects will be added as I progress through my learning roadmap.
 - Learn modern orchestration and transformation tools.
 - Build production-style data pipelines.
 
+
+
+
+## Progress
+
+- [x] GitHub repository setup
+- [x] Python environment setup
+- [x] First Python script
+- [ ] Python fundamentals
+- [ ] Python ETL project
+- [ ] Advanced SQL
+- [ ] AWS data pipeline
